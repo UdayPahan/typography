@@ -1,1 +1,31 @@
+.header{
+  text-transform: capitalize;
+  margin:0;
+  text-align:center;
+  
+}
 
+.container{
+  border:solid 3px black;
+  margin:auto 20px;
+  padding:0 17px;
+}
+
+p{
+  margin:0;
+  display:inline;
+  text-align:left;
+}
+
+.right-side{
+  text-align:right;
+}
+
+.left-side{
+ 
+  text-align:left;
+}
+
+*{
+  box-sizing:border-box;
+}
